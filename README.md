@@ -5,9 +5,9 @@ My name is Zhutao, and I am a graduate student at Rutgers University who has a g
 <a href="https://zhutaosheng.github.io/contact"> <img src="https://zhutaosheng.github.io/assets/icons/social-mail.png" height="48"></a>
 <a href="https://zhutaosheng.github.io/blog"> <img src="https://zhutaosheng.github.io/assets/icons/social-wordpress.png" height="48"></a>
 <a href="https://www.instagram.com/zhtuao.s/"> <img src="https://zhutaosheng.github.io/assets/icons/social-instagram.png" height="48"></a>
-<a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/social-youtube.png" height="48"></a>
-<a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/social-twitch.png" height="48"></a>
-<a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/social-discord.png" height="48"></a>
+<a href="https://www.youtube.com/@ZhutaoGuru"> <img src="https://zhutaosheng.github.io/assets/icons/social-youtube.png" height="48"></a>
+<a href="https://www.twitch.tv/zhutao_s"> <img src="https://zhutaosheng.github.io/assets/icons/social-twitch.png" height="48"></a>
+<a href="https://discord.com/users/Zhutao#4694"> <img src="https://zhutaosheng.github.io/assets/icons/social-discord.png" height="48"></a>
 <a href="https://www.researchgate.net/profile/Zhutao-Sheng"> <img src="https://zhutaosheng.github.io/assets/icons/researchGateLogo.png" height="48"></a>
 
 

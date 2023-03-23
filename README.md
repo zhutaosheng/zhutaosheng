@@ -2,13 +2,13 @@
 
 
 I am [Zhutao Sheng](http://zhutaosheng.com/), an Rutgers grad student and chemistry lover. You can find me in the following places:
-<a href="http://zhutaosheng.com/"> <img src="http://zhutaosheng.com/icons/android-chrome-192x192.png" height="48"></a>
-<a href="http://zhutaosheng.com/contact"> <img src="http://zhutaosheng.com/icons/social-mail.png" height="48"></a>
-<a href="http://zhutaosheng.com/blog"> <img src="http://zhutaosheng.com/icons/social-wordpress.png" height="48"></a>
-<a href="https://www.instagram.com/zhtuao.s/"> <img src="http://zhutaosheng.com/icons/social-instagram.png" height="48"></a>
-<a href="add later"> <img src="http://zhutaosheng.com/icons/social-youtube.png" height="48"></a>
-<a href="add later"> <img src="http://zhutaosheng.com/icons/social-twitch.png" height="48"></a>
-<a href="add later"> <img src="http://zhutaosheng.com/icons/social-discord.png" height="48"></a>
+<a href="https://zhutaosheng.github.io/"> <img src="https://zhutaosheng.github.io/icons/android-chrome-192x192.png" height="48"></a>
+<a href="https://zhutaosheng.github.io/contact"> <img src="https://zhutaosheng.github.io/icons/social-mail.png" height="48"></a>
+<a href="https://zhutaosheng.github.io/blog"> <img src="https://zhutaosheng.github.io/icons/social-wordpress.png" height="48"></a>
+<a href="https://www.instagram.com/zhtuao.s/"> <img src="https://zhutaosheng.github.io/icons/social-instagram.png" height="48"></a>
+<a href="add later"> <img src="https://zhutaosheng.github.io/icons/social-youtube.png" height="48"></a>
+<a href="add later"> <img src="https://zhutaosheng.github.io/icons/social-twitch.png" height="48"></a>
+<a href="add later"> <img src="https://zhutaosheng.github.io/icons/social-discord.png" height="48"></a>
 
 
 I'm also an amateur programmer, I guess.

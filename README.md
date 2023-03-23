@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
+My name is Zhutao, and I am a graduate student at Rutgers University who has a great interest in chemistry. You can visit my [website](http://zhutaosheng.com/), and I am also available at the following places:
 
-I am [Zhutao Sheng](http://zhutaosheng.com/), an Rutgers grad student and chemistry lover. You can find me in the following places:
 <a href="https://zhutaosheng.github.io/contact"> <img src="https://zhutaosheng.github.io/assets/icons/social-mail.png" height="48"></a>
 <a href="https://zhutaosheng.github.io/blog"> <img src="https://zhutaosheng.github.io/assets/icons/social-wordpress.png" height="48"></a>
 <a href="https://www.instagram.com/zhtuao.s/"> <img src="https://zhutaosheng.github.io/assets/icons/social-instagram.png" height="48"></a>

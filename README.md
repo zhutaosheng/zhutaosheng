@@ -2,7 +2,6 @@
 
 
 I am [Zhutao Sheng](http://zhutaosheng.com/), an Rutgers grad student and chemistry lover. You can find me in the following places:
-<a href="https://zhutaosheng.github.io/"> <img src="https://zhutaosheng.github.io/assets/icons/android-chrome-192x192.png" height="48"></a>
 <a href="https://zhutaosheng.github.io/contact"> <img src="https://zhutaosheng.github.io/assets/icons/social-mail.png" height="48"></a>
 <a href="https://zhutaosheng.github.io/blog"> <img src="https://zhutaosheng.github.io/assets/icons/social-wordpress.png" height="48"></a>
 <a href="https://www.instagram.com/zhtuao.s/"> <img src="https://zhutaosheng.github.io/assets/icons/social-instagram.png" height="48"></a>

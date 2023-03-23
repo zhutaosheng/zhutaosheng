@@ -8,6 +8,7 @@ My name is Zhutao, and I am a graduate student at Rutgers University who has a g
 <a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/social-youtube.png" height="48"></a>
 <a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/social-twitch.png" height="48"></a>
 <a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/social-discord.png" height="48"></a>
+<a href="add later"> <img src="https://zhutaosheng.github.io/assets/icons/researchGateLogo.png" height="48"></a>
 
 
 I'm also an amateur programmer, I guess.
